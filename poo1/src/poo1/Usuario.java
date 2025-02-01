@@ -12,7 +12,7 @@ public class Usuario {
 
     int edad;
     String nombre;
-
+    int codigo;
     public Usuario(String nombre, int edad) {
         this.edad = edad;
         this.nombre = nombre;
